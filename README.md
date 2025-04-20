@@ -4,7 +4,11 @@ This repository contains topic-wise Python-based notebooks, solved examples, and
 
 📺 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
----
+## ♨️ GATE Chemical Engineering Syllabus:  Heat Transfer
+Equation of energy, steady and unsteady heat conduction, convection and radiation, thermal 
+boundary layer and heat transfer coefficients, boiling, condensation and evaporation; types of heat 
+exchangers and evaporators and their process calculations; design of double pipe, shell and tube 
+heat exchangers, and single and multiple effect evaporators.
 
 ## 📘 Course Topics
 
